@@ -1,0 +1,28 @@
+.section-title_theme_dark {
+  color: white;
+}
+
+.section-subtitle_theme_dark {
+  color: white;
+  width: 60%;
+}
+
+.table_theme_dark {
+  color: white;
+}
+
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin: 80px 0 0 0;
+}
+
+.table__heading_theme_dark {
+  color: white;
+  margin: 0;
+}
+
+.table__text_theme_dark {
+  color: white;
+  margin: 20px 0 0 0;
+}
